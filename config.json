@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "2d4cabd0-2ce9-410e-912f-6bc6343dee57"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "hhttps://discord.com/api/webhooks/1232665399544250493/OFTonWzdh4l4PwLxfYMGssdd3yd0CWaddrWC7Fp2qCEH74RfC7FNeFk5Q72oiDP7wMZR"
+    },
+
+    "discord": {
+        "bot_token": "MTIzMjMwODcwMTI2NDc0MDQwMg.G1zGsX.MCTARBACnpSH36ZMn8bNeYP9fZCvMpBAGmL-r4"
+    },
+
+    "azure" : {
+        "client_id": "09f4826a-79e0-4397-a83b-9f70df743a12",
+        "client_secret": "fd578800-b80c-42c4-af53-e4d0732c2022",
+        "redirect_uri": "https://hypixel-net.onrender.com"
+    }
+}
